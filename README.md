@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nsengiyunva
 - 👀 I’m interested in Apps, UI, Automation, Design Patterns, Algorithms
 - 🌱 I’m currently learning DevOps + A.I + Hardware Engineering
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on PAID Projects.
 - 📫 How to reach me: https://dev.to/nsengiyunva
 
 <!---
